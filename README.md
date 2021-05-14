@@ -1,6 +1,6 @@
 # Introduction to React JS
 
-On this project you will get the files that are associated with videos on Youtube - [See React Tutorials] https://www.youtube.com/watch?v=7iVwyufnC0s&list=PLZCRuAGHTaNn4Xx1P2ZYHguCKx_WpTrT4
+On this project you will get the files that are associated with videos on Youtube - [See React Tutorials](https://www.youtube.com/watch?v=7iVwyufnC0s&list=PLZCRuAGHTaNn4Xx1P2ZYHguCKx_WpTrT4)
 
 # Getting Started with Create React App
 
